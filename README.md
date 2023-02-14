@@ -3,6 +3,8 @@
 ### Este programa tem a finalidade academica, para estudos da linguagem de programação Java
 
 ------------------------------------------------------------------------
+# O Executável do programa esta na raiz com o nome EstudoCRUD.
+------------------------------------------------------------------------
 
 # Prints da tela 
 
