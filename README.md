@@ -3,17 +3,19 @@
 O objetivo dessa aplicação é realizar operações CRUD (Create, Read, Update e Delete) em uma lista de clientes, permitindo ao usuário cadastrar, listar, buscar, atualizar e excluir clientes.
 
 ## Funcionalidades
-Cadastro de cliente com validação de dados (nome, telefone e email);
+- `Funcionalidade 1`: Cadastro de cliente com validação de dados (nome, telefone e email);
 
-Listagem dos clientes cadastrados;
+- `Funcionalidade 2`: Listagem dos clientes cadastrados;
 
-Busca de um cliente pelo ID;
+- `Funcionalidade 3`: Busca de um cliente pelo ID;
 
-Atualização dos dados de um cliente existente;
+- `Funcionalidade 4`: Atualização dos dados de um cliente existente;
 
-Exclusão de um cliente existente.
+- `Funcionalidade 5`: Exclusão de um cliente existente.
 
-### Extras
+- `Observação`: O executável deste programa está disponível na pasta raiz do repositório GitHub. Você pode baixar a pasta ou clonar o repositório para acessar o executável e utilizá-lo em seu sistema. Lembre-se de verificar os requisitos do sistema e seguir as instruções do README para garantir que o programa seja executado corretamente. Se você tiver dúvidas ou encontrar algum problema, por favor, abra uma issue no GitHub para que a equipe possa ajudá-lo.
+
+### Em funcionamento
 1 - O programa possui validação de entrada para garantir que o usuário insira apenas valores numéricos válidos. Se o usuário digitar um valor inválido, o programa irá exibir uma mensagem de erro e solicitará que o usuário tente novamente.
 
 2 - O programa também inclui verificações de erro para garantir que as entradas do usuário sejam válidas para as operações específicas que ele está realizando. Por exemplo, se o usuário tentar realizar uma divisão por zero, o programa irá exibir uma mensagem de erro informando que a operação não é válida.
