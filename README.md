@@ -13,7 +13,7 @@ O objetivo dessa aplicação é realizar operações CRUD (Create, Read, Update 
 
 - `Funcionalidade 5`: Exclusão de um cliente existente.
 
-- `Observação`: O executável deste programa está disponível na pasta raiz do repositório GitHub. Você pode baixar a pasta ou clonar o repositório para acessar o executável e utilizá-lo em seu sistema. Lembre-se de verificar os requisitos do sistema e seguir as instruções do README para garantir que o programa seja executado corretamente. Se você tiver dúvidas ou encontrar algum problema, por favor, abra uma issue no GitHub para que a equipe possa ajudá-lo.
+- `Observação`: O executável deste programa está disponível na pasta raiz do repositório GitHub. Você pode baixar a pasta ou clonar o repositório para acessar o executável e utilizá-lo em seu sistema. Lembre-se de verificar os requisitos do sistema e seguir as instruções do README para garantir que o programa seja executado corretamente. Se você tiver dúvidas ou encontrar algum problema, por favor, abra uma issue no GitHub para que eu possa ajudá-lo.
 
 ### Em funcionamento
 1 - O programa possui validação de entrada para garantir que o usuário insira apenas valores numéricos válidos. Se o usuário digitar um valor inválido, o programa irá exibir uma mensagem de erro e solicitará que o usuário tente novamente.
